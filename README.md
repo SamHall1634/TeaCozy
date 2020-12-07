@@ -1,1 +1,1 @@
-# TeaCozy
+# A personal project that I am working on and I am stumped on the css, all the html is written and some css but the arrangement of the content on the webpage is disorganized. This is the design spec https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg, some directional help would be great.
