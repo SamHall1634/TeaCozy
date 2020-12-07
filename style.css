@@ -1,0 +1,113 @@
+.container {
+  background-color: #000000;
+}
+
+.nav {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  text-decoration: underline;
+  text-align: right;
+  word-spacing: 5px;
+
+}
+
+.nav li {
+  display: inline;
+}
+
+.logo {
+position: fixed;
+
+}
+
+.logo img {
+  height: 50px;
+  padding-left: 10px;
+}
+
+.mission img {
+  width: 1135px;
+  height: 700px;
+}
+
+.mission {
+  top: 69px;
+  left: 30px;
+  right: 30px;
+}
+
+p {
+  font-family: Helvetica;
+  color: seashell;
+  font-size: 22px;
+}
+
+h2 {
+  font-family: Helvetica;
+  color: seashell;
+  text-align: center;
+}
+
+h3 {
+  font-family: Helvetica;
+  color: seashell;
+
+}
+
+h4 {
+  font-family: Helvetica;
+  color: seashell;
+  text-align: center;
+}
+
+h5 {
+  font-family: Helvetica;
+  color: seashell;
+  text-align: center;
+}
+
+.blitz img {
+width: 300px;
+height: 200px;
+}
+
+.rum img {
+width: 300px;
+height: 200px;
+}
+
+.donuts img {
+width: 300px;
+height: 200px;
+}
+
+.myrtle img {
+width: 300px;
+height: 200px;
+}
+
+.bedford img {
+width: 300px;
+height: 200px;
+}
+
+.locations img {
+  width: 1200px;
+  height: 500px
+}
+
+.downtown li {
+  font-family: Helvetica;
+  color: seashell;
+}
+
+.eastbayside li {
+  font-family: Helvetica;
+  color: seashell;
+}
+
+.oakdale li {
+  font-family: Helvetica;
+  color: seashell;
+}
